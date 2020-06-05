@@ -1,7 +1,10 @@
 # file-parsing-for-line-numbers
 A simple Python script that goes through a text file and writes a new file with all the words next to their line numbers.
 
-to run on the command line: python3 file_parser.py infile.txt
+to run on the command line:
+```
+python3 file_parser.py infile.txt
+```
 
 this will create a new file called words.txt that might have contents like this: 
 ```
